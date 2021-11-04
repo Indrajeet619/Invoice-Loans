@@ -8,3 +8,5 @@ Small Businesses have hard time getting non collateral loans. Also, even when th
 3.	Advantage of Invoice discounting is It’s available to small-sized businesses that might have been denied traditional bank finance in the past. And businesses don't have to provide assets as collateral. 
 4.	It offers a flexible finance solution as per business's requirements and businesses can get funding in short time 
 5.	All this process happens digitally and loan can be given in few days.
+
+Install dependencies using NPM install, and run node server.js 
